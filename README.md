@@ -4,6 +4,7 @@
 這邊會用來放一些學習筆記的連結([medium](https://medium.com "medium"))，以及一些對應的sample code。
 
 ### List
+- [2020.1.23 Redis cache淺談＆應用](https://reurl.cc/EK9k6K "Redis cache淺談＆應用")
 - [2019.12.1 Nodejs ORM tool: Sequelize(2) CLI篇](https://reurl.cc/NaDdE5 "Nodejs ORM tool: Sequelize(2) CLI篇")
 - [2019.11.24 Nodejs ORM tool: Sequelize(1)](https://reurl.cc/L1VbzX "Nodejs ORM tool: Sequelize(1)")
 - [2019.9.29 佈署聊天機器人(linebot)到heroku](https://reurl.cc/24LMdX "2019.9.29 佈署聊天機器人(linebot)到heroku")
