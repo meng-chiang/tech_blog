@@ -4,6 +4,8 @@
 這邊會用來放一些學習筆記的連結([medium](https://medium.com "medium"))，以及一些對應的sample code。
 
 ### List
+- [2020.7.23 Elasticsearch index size過大issue note](https://reurl.cc/N62WdQ "Elasticsearch index size過大issue note")
+- [2020.6.26 原子習慣](https://reurl.cc/D6x026 "原子習慣")
 - [2020.1.23 Redis cache淺談＆應用](https://reurl.cc/EK9k6K "Redis cache淺談＆應用")
 - [2019.12.1 Nodejs ORM tool: Sequelize(2) CLI篇](https://reurl.cc/NaDdE5 "Nodejs ORM tool: Sequelize(2) CLI篇")
 - [2019.11.24 Nodejs ORM tool: Sequelize(1)](https://reurl.cc/L1VbzX "Nodejs ORM tool: Sequelize(1)")
